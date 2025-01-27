@@ -78,3 +78,9 @@ nav{
 .link a:hover{
     color: var(--text-dark  );
 }
+
+.header-container .section-header{
+    text-align: center;
+    font-size: 3rem;
+    line-height: 4rem;
+}
